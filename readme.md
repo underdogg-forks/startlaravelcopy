@@ -1,3 +1,8 @@
+So, this is the exact copy of startLaravel. Unfortunately it's in Laravel 5.0 and by now we're at Laravel 5.3 / 5.4
+So I decided to fork it and upgrade it
+
+See other branch
+
 # SB Admin v2.0 rewritten in Laravel
 
 This project is a part of the famous Free Admin Bootstrap Theme SB Admin v2.0 to Laravel Theme.
